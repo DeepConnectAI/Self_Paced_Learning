@@ -1,6 +1,6 @@
 # Self_Paced_Learning
 
-> This is a collection of Python path and Machine Learning that are split by [topics](#table-of-contents) and contain
+> This is a collection of Python and Machine Learning resources that have been split by [topics](#table-of-contents) and contain
 code examples with explanations, different use cases and links to further readings.
 
 It is a **Help Book** because you may change or add the code to see how it works
