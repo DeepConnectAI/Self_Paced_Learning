@@ -1,11 +1,9 @@
 # Self_Paced_Learning
 
-> This is a collection of Python and Machine Learning resources that have been split by [topics](#table-of-contents) and contain
-code examples with explanations, different use cases and links to further readings.
+> This is a collection of Python and Machine Learning resources that are aimed to provide continuous learning of concepts through practical code examples, different use cases and links to further readings.
 
-It is a **Help Book** because you may change or add the code to see how it works
-and [test it out](#testing-the-code) using assertions. Altogether it might make your learning process to be more interactive and it might help you to keep
-code quality pretty high from very beginning.
+It is a **Help Book** because you may change or add the code to see how different aspects correlate with each other
+and [test it out](#testing-the-code) using assertions. Altogether it will make your learning process to be much more interactive and expose you to very high code quality from beginning.
 
 ## Table of Contents
 
