@@ -1,4 +1,4 @@
-# Self_Paced_Learning
+# Self Paced Learning
 
 > This is a collection of Python and Machine Learning resources that are aimed to provide continuous learning of concepts through practical code examples, different use cases and links to further readings.
 
@@ -165,3 +165,4 @@ Get to know the Python Frameworks for Deep Learning, and focus on TensorFlow
     - CNN, RNN and LSTM, DNN
     - Unsupervised Learning, Restricted Boltzmann Machine and Collaborative Filtering with RBM
     - Auto-encoders, Deep Belief Network, GPU programming and serving
+
