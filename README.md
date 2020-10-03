@@ -3,7 +3,7 @@
 > This is a collection of Python and Machine Learning resources that are aimed to provide continuous learning of concepts through practical code examples, different use cases and links to further readings.
 
 It is a **Help Book** because you may change or add the code to see how different aspects correlate with each other
-and [test it out](#testing-the-code) using assertions. Altogether it will make your learning process to be much more interactive and expose you to very high code quality from beginning.
+and test it out using assertions. Altogether it will make your learning process to be much more interactive and expose you to very high code quality from beginning.
 
 ## Table of Contents
 
