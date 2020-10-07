@@ -19,4 +19,8 @@ Maintainers can opt-in to participate by classifying their projects with the hac
 - Additionally, any pull request with the hacktoberfest-accepted label, submitted to any public GitHub repository, with or without the hacktoberfest topic, will be considered valid for Hacktoberfest.
 - You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 
+## Excluiding and Banning
+- Banning system will review and ban users with with too many flagged PR’s. This can result in exclusion from all future Hacktoberfests, not just this one.
+
+
 
